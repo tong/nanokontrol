@@ -1,0 +1,9 @@
+{
+    "name": "nanokontrol",
+    "version": "0.0.0",
+    "description": "Korg nanokontrol midi device access",
+    "license": "",
+    "classPath": "src",
+    "url": "https://github.com/tong/nanokontrol",
+    "contributors": []
+}
